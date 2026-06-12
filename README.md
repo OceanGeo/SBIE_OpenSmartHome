@@ -1,3 +1,5 @@
+[ΕΞΥΠΝΟ ΣΠΙΤΙ SBIE ΕΡΓΟ ΓΙΑ ΤΟΝ ΔΙΑΓΩΝΙΣΜΟ ΤΟΥ ΕΛΛΑΚ.pptx](https://github.com/user-attachments/files/28896943/SBIE.pptx)
+[ΕΞΥΠΝΟ ΣΠΙΤΙ SBIE ΕΡΓΟ ΓΙΑ ΤΟΝ ΔΙΑΓΩΝΙΣΜΟ ΤΟΥ ΕΛΛΑΚ.pptx](https://github.com/user-attachments/files/28896901/SBIE.pptx)
 # SBIE_OpenSmartHome
 SBIE_OpenSmartHome – Έξυπνο Σπίτι Ανοιχτού Κώδικα για Ενεργειακή Εξοικονόμηση και Προσβασιμότητα
 1. Τίτλος Έργου
